@@ -1,14 +1,15 @@
 # echarts
 
-> A Vue.js project
+> tooltip轮播
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 加载依赖
 npm install
 
 # serve with hot reload at localhost:8080
+# 启动项目
 npm run dev
 
 # build for production with minification
